@@ -1,0 +1,3 @@
+release_bl_iot_sdk_1.6.1-dirty
+a0_final-15-g32a4932
+d61c252

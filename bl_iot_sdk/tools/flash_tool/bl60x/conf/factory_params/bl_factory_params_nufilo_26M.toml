@@ -1,0 +1,68 @@
+[brd]
+sta_mac_addr = "00:43:57:82:73:40"
+ap_mac_addr = "00:43:57:82:73:02"
+country_code = 86
+
+
+[brd.rf]
+xtal = [51, 51, 1, 63, 63]
+pwr_table = [
+    [4,3,3,186],
+    [4,3,4,176],
+    [4,3,5,167],
+    [3,3,0,159],
+    [3,3,1,149],
+    [3,3,2,140],
+    [3,3,3,129],
+    [3,3,4,119],
+    [3,3,5,110],
+    [2,3,0,101],
+    [2,3,1,91],
+    [2,3,2,82],
+    [2,3,3,72],
+    [2,3,4,62],
+    [2,3,5,52],
+    [1,3,3,10],
+]
+
+channel_div_table = [
+    0x1EEC4EC4 ,
+    0x1EFCB7CB ,
+    0x1F0D20D2 ,
+    0x1F1D89D8 ,
+    0x1F2DF2DF ,
+    0x1F3E5BE5 ,
+    0x1F4EC4EC ,
+    0x1F5F2DF2 ,
+    0x1F6F96F9 ,
+    0x1F800000 ,
+    0x1F906906 ,
+    0x1FA0D20D ,
+    0x1FB13B13 ,
+    0x1FD89D89 ,
+    0x201F81F8 ,
+]
+channel_cnt_table = [
+    0xa78a,
+    0xa7e3,
+    0xa83c,
+    0xa895,
+    0xa8ed,
+    0xa946,
+    0xa99f,
+    0xa9f8,
+    0xaa51,
+    0xaaaa,
+    0xab03,
+    0xab5c,
+    0xabb5,
+    0xac8a, 
+]
+
+lo_fcal_div = 0x56B
+
+[ap]
+ssid = "BL60x_Nufilo_02"
+pwd = "1234567890"
+ap_channel = 11
+auto_chan_detect_en = 0

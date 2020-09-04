@@ -1,0 +1,18 @@
+src/ecp_curves.o: \
+ /home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/src/ecp_curves.c \
+ /home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/config.h \
+ /home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/check_config.h \
+ /home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/ecp.h \
+ /home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/bignum.h \
+ /home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/config.h
+
+/home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/config.h:
+
+/home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/check_config.h:
+
+/home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/ecp.h:
+
+/home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/bignum.h:
+
+/home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/include/mbedtls/config.h:
+/home/hogc/build-tools/sdk/bl/bl_iot_sdk/components/security/mbedtls/src/ecp_curves.c:
