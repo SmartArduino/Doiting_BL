@@ -19,6 +19,11 @@ The following demonstrates the development process under Linux environment, See 
 2. Open the terminal, install make, and command `sudo apt-get install make`
 3. To install git, command `sudo apt-get install git`.
 4. Clone warehouse `git clone https://github.com/SmartArduino/Doiting_BL.git`
+5. Modify the permissions and run the following two commands
+   ```
+   chmod -R 777 ./Doiting_BL/bl_iot_sdk/toolchain/
+   find ./Doiting_BL/bl_iot_sdk/customer_app -name "genromap"|xargs chmod 777
+   ```
 
 ## Compile
 The following uses hello-world as an example

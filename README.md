@@ -20,6 +20,11 @@ BL602/BL604 是博流智能推出的一款 Wi-Fi + BLE 组合的芯片组，用�
     * 国内用户可更改镜像源，加快安装速度
 3. 安装git，命令`sudo apt-get install git`
 4. 克隆仓库`git clone https://github.com/SmartArduino/Doiting_BL.git`
+5. 修改权限，运行以下两条命令
+   ```
+   chmod -R 777 ./Doiting_BL/bl_iot_sdk/toolchain/
+   find ./Doiting_BL/bl_iot_sdk/customer_app -name "genromap"|xargs chmod 777
+   ```
 
 ## 编译
 以下使用hello-world为例
