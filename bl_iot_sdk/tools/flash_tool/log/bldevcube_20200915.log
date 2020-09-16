@@ -1,0 +1,2 @@
+2020-09-15 17:13:00,275 - DEBUG - Starting new HTTPS connection (1): dev.bouffalolab.com:443
+2020-09-15 17:13:03,880 - DEBUG - https://dev.bouffalolab.com:443 "GET /api/download-search/?name=Bouffalo+Lab+Dev+Cube+For+Windows HTTP/1.1" 200 1669

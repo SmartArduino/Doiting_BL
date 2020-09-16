@@ -1,0 +1,43 @@
+[Image]
+interface = "Uart"
+com_port = "COM5"
+uart_speed = "2000000"
+jlink_speed = "1000"
+chip_erase = "False"
+first_xtal = "40M"
+flash_clock = "48M"
+boot_source = "Flash"
+image_type = "SingleCPU"
+image_file = ""
+
+[Partition]
+interface = "Uart"
+com_port = "COM5"
+uart_speed = "2000000"
+jlink_speed = "1000"
+chip_erase = "False"
+first_xtal = "40M"
+
+[Security]
+interface = "Uart"
+com_port = "COM5"
+uart_speed = "2000000"
+jlink_speed = "1000"
+chip_erase = "False"
+first_xtal = "40M"
+
+[Efuse_Key]
+interface = "Uart"
+com_port = "COM5"
+uart_speed = "2000000"
+jlink_speed = "1000"
+chip_erase = "False"
+first_xtal = "40M"
+
+[Flash_Utils]
+interface = "Uart"
+com_port = "COM5"
+uart_speed = "2000000"
+jlink_speed = "1000"
+chip_erase = "False"
+first_xtal = "40M"
