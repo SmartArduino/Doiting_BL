@@ -76,7 +76,7 @@ BL602/BL604 是博流智能推出的一款 Wi-Fi + BLE 组合的芯片组，用�
 
 
 ## 资源
-* 开发板购买地址 [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23087949821.11.58325ac1BMHbKT&id=627734275519) 或 [aliexpress](https://www.aliexpress.com/item/1005001452354979.html?spm=5261.ProductManageOnline.0.0.c5154edfE7V5mg)
+* 开发板购买地址 [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23087949821.11.58325ac1BMHbKT&id=627734275519) 或 [aliexpress](https://bit.ly/35RmF9V)
 * 技术交流QQ群: 278888900
 
 
