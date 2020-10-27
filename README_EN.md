@@ -73,5 +73,5 @@ The following uses hello-world as an example
 * After burning, the progress bar appears red. Please try again, or use the serial port tool to connect and enter the download mode correctly. The serial port will always print garbage
 
 ## Resources
-* Development board purchase [taobao](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23087949821.11.58325ac1BMHbKT&id=627734275519) or [aliexpress](https://www.aliexpress.com/item/1005001452354979.html?spm=5261.ProductManageOnline.0.0.c5154edfE7V5mg)
-* Technical exchange QQ group: 278888900
+* Development board purchase [taobao](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23087949821.11.58325ac1BMHbKT&id=627734275519) or [aliexpress](https://bit.ly/35RmF9V), more details, please move to https://gitnova.com/#/
+* Technical exchange QQ group: 278888900, mail: yichone@doit.am
