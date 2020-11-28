@@ -1,0 +1,5 @@
+# 1 "/b-l/bl_iot_sdk_new/components/network/ble/blestack/src/common/tinycrypt/source/ecc_platform_specific.c"
+# 1 "/b-l/dolphin/build_out/blestack//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/b-l/bl_iot_sdk_new/components/network/ble/blestack/src/common/tinycrypt/source/ecc_platform_specific.c"

@@ -1,0 +1,7 @@
+# Automatically generated build file. Do not edit.
+COMPONENT_INCLUDES += $(BL60X_SDK_PATH)/components/network/ble/blestack/src/port/include $(BL60X_SDK_PATH)/components/network/ble/blestack/src/common $(BL60X_SDK_PATH)/components/network/ble/blestack/src/common/include $(BL60X_SDK_PATH)/components/network/ble/blestack/src/common/include/zephyr $(BL60X_SDK_PATH)/components/network/ble/blestack/src/common/include/misc $(BL60X_SDK_PATH)/components/network/ble/blestack/src/common/include/toolchain $(BL60X_SDK_PATH)/components/network/ble/blestack/src/common/tinycrypt/include/tinycrypt $(BL60X_SDK_PATH)/components/network/ble/blestack/src/hci_onchip $(BL60X_SDK_PATH)/components/network/ble/blestack/src/bl_hci_wrapper $(BL60X_SDK_PATH)/components/network/ble/blestack/src/host $(BL60X_SDK_PATH)/components/network/ble/blestack/src/include/bluetooth $(BL60X_SDK_PATH)/components/network/ble/blestack/src/include/drivers/bluetooth $(BL60X_SDK_PATH)/components/network/ble/blestack/src/profiles $(BL60X_SDK_PATH)/components/network/ble/blestack/src/host_cmdproc $(BL60X_SDK_PATH)/components/network/ble/blestack/src/cli_cmds $(BL60X_SDK_PATH)/components/network/ble/blestack/src/services $(BL60X_SDK_PATH)/components/network/ble/blestack/src/profiles/oad
+COMPONENT_LDFLAGS +=  -L$(BUILD_DIR_BASE)/blestack  -lblestack 
+COMPONENT_LINKER_DEPS += 
+COMPONENT_SUBMODULES += 
+COMPONENT_LIBRARIES += blestack
+component-blestack-build: 

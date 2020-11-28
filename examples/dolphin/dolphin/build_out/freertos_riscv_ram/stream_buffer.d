@@ -1,0 +1,36 @@
+stream_buffer.o: \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/stream_buffer.c \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/FreeRTOS.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/FreeRTOSConfig.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/platform.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/projdefs.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/portable.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/deprecated_definitions.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/portable/GCC/RISC-V/portmacro.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/mpu_wrappers.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/task.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/list.h \
+ /b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/stream_buffer.h
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/FreeRTOS.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/FreeRTOSConfig.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/platform.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/projdefs.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/portable.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/deprecated_definitions.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/portable/GCC/RISC-V/portmacro.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/mpu_wrappers.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/task.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/list.h:
+
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/config/stream_buffer.h:
+/b-l/bl_iot_sdk_new/components/bl602/freertos_riscv_ram/./stream_buffer.c:

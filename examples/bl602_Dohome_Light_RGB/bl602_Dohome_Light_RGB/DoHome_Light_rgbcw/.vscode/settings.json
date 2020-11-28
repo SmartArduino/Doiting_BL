@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "*.bak": "c",
+        "doit_utils.h": "c",
+        "ulog.h": "c"
+    }
+}
